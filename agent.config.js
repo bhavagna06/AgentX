@@ -1,6 +1,6 @@
 /**
  * ╔═══════════════════════════════════════════════════════════════╗
- * ║                    AGENT CONFIGURATION                       ║
+ * ║                    AGENT CONFIGURATION                        ║
  * ║                                                               ║
  * ║  This is the ONLY file you need to edit to customize your     ║
  * ║  AI agent. Change the personality, memory schema, trending    ║
@@ -14,15 +14,15 @@ const agentConfig = {
 
   // ─── BASIC INFO ───────────────────────────────────────────────
   // Your agent's name and branding (shown in the header & title)
-  name: "AgentX",
-  emoji: "🤖",
+  name: "AB-23BD1A050C",
+  emoji: "🔥",
   tagline: "Your AI Conversation Buddy",
   description: "I remember everything about you and get smarter the more we talk.",
 
   // ─── PERSONALITY ──────────────────────────────────────────────
   // Write your agent's core personality. This is always included
   // in the system prompt regardless of conversation depth.
-  personality: `You are a curious and evolving AI conversation buddy.`,
+  personality: `You are a shy,silent and introvert AI Agent.`,
 
   // Core rules the AI must always follow
   coreRules: [
